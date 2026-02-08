@@ -1,16 +1,22 @@
-## Hi there 👋
+<h2 align="left">
+  Hi, I'm Mohamed Ali
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="36px" height="26px">
+</h2>
+<p><b>Software Engineer & Full Stack Web Developer</b></p>
+<hr/>
 
-<!--
-**devMoAli/devMoAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left">
+  💬 <strong>Contact:</strong>
+  <a href="mailto:dev.mohamed.ali1@gmail.com">
+    <img src="https://img.shields.io/badge/-dev.mohamed.ali1@gmail.com-e54448?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+<h3 align="left">Programming Languages & Technologies ⚒️</h3>
+
+<p align="left">
+HTML5 . CSS3 . JavaScript . TypeScript . Python . Java . PyTorch . TensorFlow . LangChain . RAG Systems . AI Agents . Vector Databases . PostgreSQL . MySQL . MongoDB . React . Next.js . Node.js . Express . Redux . Tailwind CSS . Sass . AWS . Docker . Kubernetes . Firebase . Redis . Django . Spring . Webpack . Figma . Adobe XD . Framer . Heroku .
+</p>
